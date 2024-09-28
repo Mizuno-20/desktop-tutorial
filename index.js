@@ -6,7 +6,8 @@ export default function Home() {
       <div className="styles.back">
         <div>トップページ</div>
         <li><a href="/login/">Login</a></li>
-        <li><a href="/account/">Sing up</a></li>
+        
+    
       </div>
     </>
   )
